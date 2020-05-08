@@ -1,4 +1,4 @@
-# Mathias’s dotfiles
+# a0viedo’s dotfiles
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
 
@@ -86,11 +86,9 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 Suggestions/improvements
 [welcome](https://github.com/mathiasbynens/dotfiles/issues)!
 
-## Author
+## Original author
 
-| [![twitter/mathias](http://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](http://twitter.com/mathias "Follow @mathias on Twitter") |
-|---|
-| [Mathias Bynens](https://mathiasbynens.be/) |
+[Mathias Bynens](https://mathiasbynens.be/)
 
 ## Thanks to…
 
